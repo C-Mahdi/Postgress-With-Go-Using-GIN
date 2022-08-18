@@ -1,1 +1,1 @@
-# Postgress-With-Go-Using-GORM
+# Postgress-With-Go-Using-GIN
